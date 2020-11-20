@@ -1,1 +1,1 @@
-# Soundcloud-Playlist-using-vanilla
+# Soundcloud-Playlist-using-vanilla JS
